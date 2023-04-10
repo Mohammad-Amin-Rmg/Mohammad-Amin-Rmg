@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Amin-Rmg
-- 👀 I’m interested in web and mobile programming
-- 🌱 I’m currently learning the c# language
+- 👀 I’m interested in web development and I want to become a Full stack developer
+- 🌱 I’m currently learning the javascript language
 - 💞️ I’m looking to collaborate on best companies in the world
 - 📫 How to reach me contact with amin.rouhbakhsh.8@gmail.com and Telegram Id : @Amin_Roohbakhsh
 

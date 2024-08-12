@@ -16,7 +16,7 @@ Passionate BackEnd developer<br>focusing on .NET technologies,<br>with a keen in
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Amin-Rmg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 <!---
 Mohammad-Amin-Rmg/Mohammad-Amin-Rmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

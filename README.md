@@ -1,5 +1,5 @@
 - # 💫 About Me:
-Passionate BackEnd developer<br><br>with a keen interest in continuous learning <br>and growth.
+Passionate BackEnd developer<br>with a keen interest in continuous learning <br>and growth.
 
 
 ## 🌐 Socials:
